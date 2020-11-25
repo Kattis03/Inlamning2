@@ -78,7 +78,7 @@ body.general {
     color: black;
     font-size: larger;
     background-color: #f8fde3a8;
-	background-image: url('bakgrund3.jpg');
+	  background-image: url('bakgrund3.jpg');
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -175,7 +175,7 @@ body.generalKontakt {
     font-size: 26px;
     background-color: #f8fde3a8;
     margin-top: 0;
-	background-image: url('bakgrund1.jpg');
+	  background-image: url('bakgrund1.jpg');
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
